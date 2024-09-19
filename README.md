@@ -6,13 +6,6 @@ A Python project that scrapes online articles and analyzes their sentiment using
 
 This Python project demonstrates how to scrape an online article and perform basic sentiment analysis on the text using libraries like `newspaper3k` and `TextBlob`. The project fetches an article from a given URL, extracts its content, and then analyzes the sentiment of the text.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Libraries Used](#libraries-used)
-- [How It Works](#how-it-works)
-- [License](#license)
-
 ## Installation
 
 Before running this project, ensure you have Python installed. You also need to install the following libraries:
