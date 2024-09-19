@@ -72,11 +72,3 @@ print(f"Sentiment polarity: {sentiments}")
 ## Data Source
 
 - The project uses publicly available articles from websites like [Reedsy](https://blog.reedsy.com). You can analyze any article by replacing the URL in the script with another valid article link.
-
-## License
-
-This project is licensed under the MIT License. Feel free to modify and distribute as needed.
-
-```
-
-This
